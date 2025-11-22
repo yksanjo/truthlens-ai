@@ -1,0 +1,35 @@
+[
+  {
+    "query": "Did Beethoven meet Mozart?",
+    "category": "historical_fact"
+  },
+  {
+    "query": "What is the capital of France?",
+    "category": "geography"
+  },
+  {
+    "query": "When was the first iPhone released?",
+    "category": "technology"
+  },
+  {
+    "query": "Who wrote the novel '1984'?",
+    "category": "literature"
+  },
+  {
+    "query": "What is the speed of light?",
+    "category": "science"
+  },
+  {
+    "query": "How many planets are in our solar system?",
+    "category": "science"
+  },
+  {
+    "query": "What year did World War II end?",
+    "category": "history"
+  },
+  {
+    "query": "Who painted the Mona Lisa?",
+    "category": "art"
+  }
+]
+
