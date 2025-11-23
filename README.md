@@ -1,5 +1,9 @@
 # 🔍 TruthLens AI
 
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/) [![GitHub stars](https://img.shields.io/github/stars/yksanjo/truthlens-ai?style=social)](https://github.com/yksanjo/truthlens-ai/stargazers) [![GitHub forks](https://img.shields.io/github/forks/yksanjo/truthlens-ai.svg)](https://github.com/yksanjo/truthlens-ai/network/members) [![GitHub issues](https://img.shields.io/github/issues/yksanjo/truthlens-ai.svg)](https://github.com/yksanjo/truthlens-ai/issues)
+[![Last commit](https://img.shields.io/github/last-commit/yksanjo/truthlens-ai.svg)](https://github.com/yksanjo/truthlens-ai/commits/main)
+
+
 **Real-Time Truthfulness Score for LLM Output**
 
 A hackathon-ready tool that evaluates LLM (Large Language Model) outputs for hallucinations by checking claims against external evidence sources. Built for measuring how "responsible" AI models are.
